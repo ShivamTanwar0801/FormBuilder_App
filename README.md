@@ -1,8 +1,6 @@
 # Custom Form Builder & Preview Application
 
-![Project Logo](https://yourdomain.com/logo.png)  
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
-[![Node.js CI](https://github.com/yourusername/custom-form-builder/actions/workflows/node.js.yml/badge.svg)](https://github.com/yourusername/custom-form-builder/actions/workflows/node.js.yml)  
 
 ---
 
